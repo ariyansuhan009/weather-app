@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("../src/assets/tree-736885_960_720.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
